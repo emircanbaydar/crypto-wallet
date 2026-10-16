@@ -55,4 +55,5 @@ pytest test_wallet.py
 ---
 
 ## 📸 Arayüz Önizlemesi
-*(Uygulama ekran görüntüsünü projenin ana dizinine `screenshot.png` olarak ekleyip buraya bağlayabilirsiniz)*
+
+![Uygulama Ekran Görüntüsü](screenshot.png)
