@@ -1,0 +1,13 @@
+# Hassas Kripto Verileri
+keystore.json
+*.key
+*.env
+
+# Python Derleme Dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / Editör
+.vscode/
+.idea/
